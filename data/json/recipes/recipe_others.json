@@ -1416,11 +1416,7 @@
     "time": "3 h",
     "autolearn": true,
     "using": [ [ "blacksmithing_standard", 10 ], [ "steel_tiny", 2 ] ],
-    "qualities": [
-      { "id": "CHISEL", "level": 3 },
-      { "id": "SAW_M", "level": 2 },
-      { "id": "CUT", "level": 1 }
-    ],
+    "qualities": [ { "id": "CHISEL", "level": 3 }, { "id": "SAW_M", "level": 2 }, { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "swage", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
     "components": [ [ [ "plastic_chunk", 2 ], [ "2x4", 1 ], [ "stick", 2 ] ] ]
   },
